@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bryant
-- 👀 I’m interested in ... All things tech
-- 🌱 I’m currently learning ... BATCH Scripting, PowerShell & Python
-- 📫 How to reach me ... topwigit.tech
+- 👋 Yo, I’m Bryant & I like to Automate things!
+IT Professional | Info Sec enthusasit | Lifetime Nerd
+
+Currently learning more about Python, PowerShell and Bash scripting!
 
 <!---
 awfullyavg/awfullyavg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
