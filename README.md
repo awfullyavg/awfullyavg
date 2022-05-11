@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bryant
 - 👀 I’m interested in ... All things tech
 - 🌱 I’m currently learning ... BATCH Scripting, PowerShell & Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... topwigit.tech
 
 <!---
