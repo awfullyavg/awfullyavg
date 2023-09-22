@@ -1,5 +1,4 @@
-👋 Yo, I’m Bryant & I like to Automate things!
-IT Professional | Aspiring SWE | Tired Indie Game Dev | Lifetime Nerd
+IT Professional | Software Developer | Indie Game Dev | Life Time Nerd | Always Tired 😴
 
 <!---
 awfullyavg/awfullyavg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
