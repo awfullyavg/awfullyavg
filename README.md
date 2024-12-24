@@ -1,4 +1,4 @@
-IT Professional | Software Developer | Indie Game Dev | Life Time Nerd | Always Tired 😴
+IT Professional | Software Developer | Life Time Nerd | Always Tired 😴
 
 <!---
 awfullyavg/awfullyavg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
